@@ -12,14 +12,15 @@ const About = () => {
         </div>
         <div className="about__content">
           <p>
-            Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
-            ever since the 1500s, when an unknown printer took a galley of type
-            and scrambled it to make a type specimen book. It has survived not
-            only five centuries, but also the leap into electronic typesetting,
-            remaining essentially unchanged.
+            I am 3rd BTech student at IIT BHU (Varanasi). My interest lies in the
+            field of Software development. I love Problem Solving and I have a
+            decent level of knowledge in Data Structures and Algorithms. I
+            regularly practise questions on online Coding platforms like
+            Codeforces and Interviewbit.
           </p>
-          <a href="#contact" className="btn btn-primary">Let's Talk</a>
+          <a href="#contact" className="btn btn-primary">
+            Let's Talk
+          </a>
         </div>
       </div>
     </section>
