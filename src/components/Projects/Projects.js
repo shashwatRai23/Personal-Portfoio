@@ -4,6 +4,7 @@ import img1 from "../../assets/img1.png"
 import img2 from "../../assets/img2.png"
 import img3 from "../../assets/img3.png"
 import img4 from "../../assets/img4.png"
+import img5 from "../../assets/img5.png"
 
 const Projects = () => {
 
@@ -35,6 +36,13 @@ const Projects = () => {
       title: "Meme Generator",
       github: 'https://github.com/shashwatRai23/Meme-Generator',
       demo: 'https://meme-generator-bb3c52.netlify.app',
+    },
+    {
+      id: 5,
+      image: img5,
+      title: "Student Management App",
+      github: 'https://github.com/shashwatRai23/Student-Management-App',
+      demo: 'https://student-management-app-040223.netlify.app/',
     },
   ]
 
