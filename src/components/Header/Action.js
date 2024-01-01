@@ -1,5 +1,5 @@
 import React from "react";
-import CV from "../../assets/CV2.pdf";
+import CV from "../../assets/CV3.pdf";
 
 const Action = () => {
   return (

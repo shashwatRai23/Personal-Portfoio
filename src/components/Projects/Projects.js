@@ -5,10 +5,26 @@ import img2 from "../../assets/img2.png"
 import img3 from "../../assets/img3.png"
 import img4 from "../../assets/img4.png"
 import img5 from "../../assets/img5.png"
+import img6 from "../../assets/img6.png"
+import img7 from "../../assets/img7.png"
 
 const Projects = () => {
 
   const data=[
+    {
+      id: 7,
+      image: img7,
+      title: "Code Pair",
+      github: 'https://github.com/shashwatRai23/Code_Pair/tree/main/Code_Pair',
+      demo: 'https://github.com/shashwatRai23/Code_Pair/tree/main/Code_Pair',
+    },
+    {
+      id: 6,
+      image: img6,
+      title: "Chrome-Extension(Upcoming Contests)",
+      github: 'https://github.com/shashwatRai23/Chrome-Extension',
+      demo: 'https://github.com/shashwatRai23/Chrome-Extension',
+    },
     {
       id: 1,
       image: img1,
