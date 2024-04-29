@@ -12,6 +12,13 @@ const Projects = () => {
 
   const data=[
     {
+      id: 2,
+      image: img2,
+      title: "Expensor",
+      github: 'https://github.com/shashwatRai23/Expensor-Full-Stack-',
+      demo: 'https://expensor-woad.vercel.app/',
+    },
+    {
       id: 7,
       image: img7,
       title: "Code Pair",
@@ -31,13 +38,6 @@ const Projects = () => {
       title: "Ecommerce Application",
       github: 'https://github.com/shashwatRai23/Ecommerce-website',
       demo: 'https://github.com/shashwatRai23/Ecommerce-website',
-    },
-    {
-      id: 2,
-      image: img2,
-      title: "Expense Manager",
-      github: 'https://github.com/shashwatRai23/Expense-Manager-App',
-      demo: 'https://expense-manager-234977.netlify.app',
     },
     {
       id: 3,
